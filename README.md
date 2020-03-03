@@ -1,5 +1,7 @@
 # grundstuecksinformation-avdpool
 
+NOT PRODUCTION-READY. Wahrscheinlich wird der GRELT-(Jenkins)-Job-Weg weiterverfolgt. 
+
 ## Developing
 
 ```
